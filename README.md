@@ -1,1 +1,1 @@
-# Forex_Quant_Research
+# EUR-USD-Quant-Research
