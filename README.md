@@ -1,1 +1,1 @@
-# EUR-USD-Quant-Research
+This repo currently only has 1 python notebook called TimeFrame-Conversion. The purpose of this file is to allow you to convert from the 1 minute candlestick time frame to any time frame you might want.
